@@ -1,2 +1,1 @@
-# example-repo
-This is an example repository created by Terraform.
+# This is a test Terraform Repo
